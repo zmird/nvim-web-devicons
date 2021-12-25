@@ -836,7 +836,7 @@ local icons = {
   },
   ["py"] = {
     icon = "",
-    color = "#ffbc03",
+    color = "#366F9E",
     cterm_color = "61",
     name = "Py",
   },
