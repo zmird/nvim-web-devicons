@@ -136,7 +136,7 @@ local icons = {
   },
   [".gitattributes"] = {
     icon = "",
-    color = "#41535b",
+    color = "#F14C28",
     cterm_color = "59",
     name = "GitAttributes",
   },
@@ -148,19 +148,19 @@ local icons = {
   },
   [".gitignore"] = {
     icon = "",
-    color = "#41535b",
+    color = "#F14C28",
     cterm_color = "59",
     name = "GitIgnore",
   },
   [".gitmodules"] = {
     icon = "",
-    color = "#41535b",
+    color = "#F14C28",
     cterm_color = "59",
     name = "GitModules",
   },
   ["COMMIT_EDITMSG"] = {
     icon = "",
-    color = "#41535b",
+    color = "#F14C28",
     cterm_color = "59",
     name = "GitCommit",
   },
