@@ -1109,13 +1109,13 @@ local icons = {
     name = "Xul",
   },
   ["yaml"] = {
-    icon = "",
+    icon = "",
     color = "#D32F2E",
     cterm_color = "66",
     name = "Yaml",
   },
   ["yml"] = {
-    icon = "",
+    icon = "",
     color = "#D32F2E",
     cterm_color = "66",
     name = "Yml",
